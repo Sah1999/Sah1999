@@ -3,7 +3,7 @@
 - 🌱 I am currently learning systems analysis and development
 - 💞️ I'm looking to collaborate on mobile projects
 - 📫 You can contact me through Linkedin
-- 😄 Pronouns: She/Her
+
 
 <!---
 Sah1999/Sah1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
